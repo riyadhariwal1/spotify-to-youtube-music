@@ -1,7 +1,7 @@
 from spotipy.oauth2 import SpotifyClientCredentials
 import spotipy
 import settings
-import html
+import html  
 
 
 class Spotify:
